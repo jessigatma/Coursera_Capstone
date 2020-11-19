@@ -11,6 +11,6 @@ It contains the <i> colonies </i> with their respective <i> coordinates </i>, it
 
 To locate the marginalized areas where the construction of public spaces is most urgent, only those neighborhoods with a high and very high degree of marginalization will be taken into account.
 
-Subsequently, with the help of Foursquare, the parks, squares, gardens or sports facilities that exist in these areas will be located to perform segmentation and clustering to make an analysis of the areas where more intervention is required.
+The size of the population will also be taken into account and later, with the help of Foursquare, the parks, squares, gardens or sports facilities that exist in these areas will be located to perform a segmentation and clustering to make an analysis of the areas where more is required intervention.
 
 
