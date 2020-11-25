@@ -3,12 +3,15 @@
 <h2>Problem Definition</h2>
 
 <h3>What</h3>
+
 The business idea of ​​this project is to find the best place for a bookstore-cafeteria.
 
 <h3>Whom</h3>
+
 The analysis of this project is targeted to stakeholders who want to become partners in a bookstore-cafeteria in the Guadalajara City.
 
 <h3>Why</h3>
+
 The challenge is to find the right location for the cafeteria, taking into account that this service is aimed mainly at university students who are looking for a place to read or discuss ideas while having a good cup of coffee.
 
 We need a neighborhood where there is at least one university, that is a consumer of cafeterias and that also has little competition from bookstores.
