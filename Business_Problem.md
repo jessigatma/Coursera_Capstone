@@ -33,7 +33,7 @@ Once the georeferenced data of the neighborhoods is available, the application w
 Finally, using <a href='https://en.foursquare.com/'> Foursquare </a> again, it will search for coffee shops and bookstores in these neighborhoods.
 
 
-It will try to find a place where there is demand for coffee and low competition of bookstores
+It will try to find a place where there is demand for coffee and low competition of bookstores.
 
 
 
